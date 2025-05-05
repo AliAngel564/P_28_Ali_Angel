@@ -41,6 +41,8 @@ int main(){
     std::cout<<"\nThe memory slot of pPUsrNum: "<<&pPUsrNum;
     std::cout<<"\nThe memory slot of pUsrName: "<<&pUsrName;
     std::cout<<"\nThe memory slot of pPusrName: "<<&pPUsrName;
+
+    return 0;
 }
 
 void pressAnyKey()
